@@ -18,7 +18,7 @@
 
 - [Books :books:](#books-books)
 
-- [Programming Information :floppy_disk:](#r-programming-information-floppy_disk)
+- [Programming Information :floppy_disk:](#programming-information-floppy_disk)
  
 - [Machine Learning :tractor:](#machine-learning-tractor)
 
@@ -44,18 +44,22 @@
 
 - :free: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata)
 
+- <a href="example.com" target="_blank">Text Here</a>
+
 - :free:
 
 Stats, ..., Linear Algebra, ..., ML
 
 ### Programming Information :floppy_disk:
 
-- :free: [Free Code Camp](https://www.freecodecamp.org/)
+- :free: :star: [Free Code Camp](https://www.freecodecamp.org/news/about/)
 
 - :free: **Learn Git!** [GitHub.com](https://github.com/)
     1. **Use Git for Everything & put All work on it!** 
     2. Git and what you put on your GitHub account **IS** your new business card. 
     3. You may also try Gitlab and Bitbucket (all free).
+    
+- [GoalKicker.com]() - Free Programming Books
 
 #### R-cran
 
@@ -103,6 +107,8 @@ Stats, ..., Linear Algebra, ..., ML
 ### People :man_student: :woman_student:
 
 - [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
+
+- :star:[Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
 - [Jeff Leek](http://jtleek.com/index.html)
 
