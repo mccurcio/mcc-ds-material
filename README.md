@@ -44,13 +44,13 @@
 
 - :free: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata)
 
-- <a href="example.com" target="_blank">Text Here</a>
+- target'blank' http: <a href="example.com" target="_blank">Text Here</a>
 
-- :free:
+- 
 
 Stats, ..., Linear Algebra, ..., ML
 
-### Programming Information :floppy_disk:
+## Programming Information :floppy_disk:
 
 - :free: :star: [Free Code Camp](https://www.freecodecamp.org/news/about/)
 
@@ -61,15 +61,15 @@ Stats, ..., Linear Algebra, ..., ML
     
 - [GoalKicker.com]() - Free Programming Books
 
-#### R-cran
+### R-cran
 
 - :free: [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/)
 
 - :free: [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/)
 
-#### Python :snake:
+### Python :snake:
 
-#### Bash :goat:
+### Bash :goat:
 
 - :free: [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/)
   
@@ -79,7 +79,7 @@ Stats, ..., Linear Algebra, ..., ML
 
 - :free: [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/)
    
-#### Linux :penguin:
+### Linux :penguin:
 
 - :free: [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux)
 
@@ -104,7 +104,7 @@ Stats, ..., Linear Algebra, ..., ML
 - :star: [Top 10 algorithms in data mining by Xindong Wu et al](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf) 
     This paper 2007 is GREAT for new people. This paper is good for perspective.
 
-### People :man_student: :woman_student:
+## People :man_student: :woman_student:
 
 - [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
 
@@ -116,11 +116,13 @@ Stats, ..., Linear Algebra, ..., ML
 
 - [Roger Peng](https://leanpub.com/u/rdpeng)
 
-### Videos :tv:
+## Videos :tv:
 
 - :star: [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg)
 
-### Miscellaneous
+- :star: :star: Intro. to [Arrtifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+
+## Miscellaneous
 
 - :star: [Calibre](https://calibre-ebook.com/) This program is Excellent for organizing PDF's, Epubs and mobi book and article formats.
 
