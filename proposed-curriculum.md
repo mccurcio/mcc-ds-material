@@ -1,4 +1,4 @@
-# Proposed Cirriculum
+#NOTES for  Cirriculum outline
 
 ## Mathematics
 

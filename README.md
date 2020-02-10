@@ -42,7 +42,7 @@
 
 ## Books :books:
 
-- :free: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata)
+- [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
 
 - target'blank' http: <a href="example.com" target="_blank">Text Here</a>
 
@@ -52,42 +52,44 @@ Stats, ..., Linear Algebra, ..., ML
 
 ## Programming Information :floppy_disk:
 
-- :free: :star: [Free Code Camp](https://www.freecodecamp.org/news/about/)
+- [Free Code Camp](https://www.freecodecamp.org/news/about/) :free:
 
-- :free: **Learn Git!** [GitHub.com](https://github.com/)
-    1. **Use Git for Everything & put All work on it!** 
-    2. Git and what you put on your GitHub account **IS** your new business card. 
-    3. You may also try Gitlab and Bitbucket (all free).
+-  **Learn Git!** [GitHub.com](https://github.com/) :free:
+    - **Use Git for Everything & put All work on it!** 
+    - Git and what you put on your GitHub account **IS** your new business card. 
+    - You may also try Gitlab and Bitbucket (all free).
     
-- [GoalKicker.com]() - Free Programming Books
+- [GoalKicker.com](https://goalkicker.com/) :free: - Programming Books
+    - **BASH, Python, MySQL, GIT, Linux**, ... 
+    - These are more like terse notes for a quick referecne.
 
 ### R-cran
 
-- :free: [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/)
+- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/) :free:
 
-- :free: [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/)
+- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/) :free:
 
 ### Python :snake:
 
 ### Bash :goat:
 
-- :free: [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/)
+- :free: [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/) :free:
   
 #### SQL - Under Construction
   
 #### Markdown :arrow_down_small:
 
-- :free: [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/)
+- [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :free:
    
 ### Linux :penguin:
 
-- :free: [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux)
+- [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux) :free:
 
 ## Machine Learning :tractor:
 
-- :free: [Hands-On Machine Learning with R by Bradley Boehmke, et al](https://bradleyboehmke.github.io/HOML/)
+- [Hands-On Machine Learning with R by Bradley Boehmke, et al](https://bradleyboehmke.github.io/HOML/) :free:
 
-- :free: [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/)
+- [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/) :free:
 
 ### Supervised :label:
 
@@ -124,8 +126,8 @@ Stats, ..., Linear Algebra, ..., ML
 
 ## Miscellaneous
 
-- :star: [Calibre](https://calibre-ebook.com/) This program is Excellent for organizing PDF's, Epubs and mobi book and article formats.
+- :star: [Calibre](https://calibre-ebook.com/) This program is Excellent for organizing PDF's, Epubs and mobi book and article formats. :free:
 
-- :free: [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/)
+- [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/) :free:
 
 [Back to top ↑](#data-Science-Practitioner's-Reading-List)
