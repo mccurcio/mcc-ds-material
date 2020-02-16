@@ -42,11 +42,14 @@
 
 ## Books :books:
 
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
 - [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
 
 - target'blank' http: <a href="example.com" target="_blank">Text Here</a>
 
-- 
+- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks)
+    - A GREAT resource is [Syncfusion.com](https://www.syncfusion.com/ebooks) which has over 170 as of Feb. 2020 on D.S., SQL ...
 
 Stats, ..., Linear Algebra, ..., ML
 
@@ -64,6 +67,8 @@ Stats, ..., Linear Algebra, ..., ML
     - These are more like terse notes for a quick referecne.
 
 ### R-cran
+
+- [Advanced R](https://adv-r.hadley.nz/index.html)
 
 - [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/) :free:
 
@@ -109,12 +114,10 @@ Stats, ..., Linear Algebra, ..., ML
 ## People :man_student: :woman_student:
 
 - [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
-
-- :star:[Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
+    - :star:[Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
 - [Jeff Leek](http://jtleek.com/index.html)
-
-- [Introduction to Cloud-Based Data Science by Jeffrey Leek](https://leanpub.com/universities/courses/jhu/cbds-intro)
+    - [Introduction to Cloud-Based Data Science by Jeffrey Leek](https://leanpub.com/universities/courses/jhu/cbds-intro)
 
 - [Roger Peng](https://leanpub.com/u/rdpeng)
 
