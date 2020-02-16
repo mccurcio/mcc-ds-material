@@ -4,11 +4,13 @@
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
-**Note To All:** This opinoinated list is by [Matthew Curcio](). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete or comprehensive* but simply a resource for myself and others. 
+**Note:** This opinoinated list is by [Matthew Curcio](). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete or comprehensive* but simply a resource for myself and others. 
 
-- If you would like to add or correct an area please make a pull request. I am on the look out for classic papers...
+- If you would like to **add or correct**, please make a pull request. I am on the look out for classic papers too...
  
  **INDEX** :star: Many sections are still **Under Construction**
+
+Note for MCC:  target'blank' http: <a href="example.com" target="_blank">Text Here</a>
 
 - [Books :books:](#books-books)
 
@@ -36,14 +38,12 @@
 
 ## Books :books:
 
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017
 
 - [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
 
-- target'blank' http: <a href="example.com" target="_blank">Text Here</a>
-
 - [Syncfusion Ebooks](https://www.syncfusion.com/ebooks)
-    - A GREAT resource is [Syncfusion.com](https://www.syncfusion.com/ebooks) which has over 170 as of Feb. 2020 on D.S., SQL ...
+    - A GREAT resource is [Syncfusion.com](https://www.syncfusion.com/ebooks) which has over 170 as of Feb. 2020 on D.S., SQL ... :free:
 
 Stats, ..., Linear Algebra, ..., ML
 
