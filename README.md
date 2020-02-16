@@ -1,6 +1,6 @@
 <p align="center">
   <a href=" https://github.com/mccurcio/">
-    <img src="https://github.com/mccurcio/ds-material/blob/master/assets/ds-venn-diagram.png" alt="Data Science Practitioner's Reading List" />
+    <img src="../ds-venn-diagram.png" alt="Data Science Practitioner's Reading List" />
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
