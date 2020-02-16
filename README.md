@@ -4,11 +4,7 @@
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
----
-
-[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com) [![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
----
+![Data Science Practitioner's Reading List](../assets/ds-venn-diagram.png)
 
 **Note To All:** This opinoinated list is by [Matthew Curcio](). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete or comprehensive* but simply a resource for myself and others. 
 
