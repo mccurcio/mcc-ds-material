@@ -1,10 +1,8 @@
 <p align="center">
   <a href=" https://github.com/mccurcio/">
-    <img src="../assets/ds-venn-diagram.png" alt="Data Science Practitioner's Reading List" />
+    <img src="./assets/ds-venn-diagram.png" alt="Your Road Map" />
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
-
-![Data Science Practitioner's Reading List](../assets/ds-venn-diagram.png)
 
 **Note To All:** This opinoinated list is by [Matthew Curcio](). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete or comprehensive* but simply a resource for myself and others. 
 
