@@ -8,7 +8,7 @@
 
 - If you would like to **add or correct**, please make a pull request. I am on the look out for classic papers too...
  
- **INDEX** :star: Many sections are still **Under Construction**
+:star: Many sections are still **Under Construction**
 
 Note for MCC:  target'blank' http: <a href="example.com" target="_blank">Text Here</a>
 
@@ -38,14 +38,23 @@ Note for MCC:  target'blank' http: <a href="example.com" target="_blank">Text He
 
 ## Books :books:
 
+- ## Mathematics
+
+- Machine Learning, Tom M. Mitchell, ISBN: 0070428077
+
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017
 
 - [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
 
 - [Syncfusion Ebooks](https://www.syncfusion.com/ebooks)
-    - A GREAT resource is [Syncfusion.com](https://www.syncfusion.com/ebooks) which has over 170 as of Feb. 2020 on D.S., SQL ... :free:
+    - GREAT resource! :free:
+    - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey
+    
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  :free:
 
-Stats, ..., Linear Algebra, ..., ML
+- Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig, ISBN-13: 978-0-13-604259-4
+    
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/), Bradley Boehmke & Brandon Greenwell, 2020
 
 ## Programming Information :floppy_disk:
 
