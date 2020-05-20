@@ -4,13 +4,11 @@
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
-**Note:** This opinoinated list is by [Matthew Curcio](). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others. 
+**Note:** This opinoinated list is by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others. 
 
 - If you would like to **add or correct**, please make a pull request. I am on the look out for classic papers too...
  
 :star: Many sections are still **Under Construction**
-
-Note for MCC:  target'blank' http: <a href="example.com" target="_blank">Text Here</a>
 
 - [Books :books:](#books-books)
 
@@ -40,6 +38,9 @@ Note for MCC:  target'blank' http: <a href="example.com" target="_blank">Text He
 
 - ## Mathematics
 
+- A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners.
+- 
+
 - Machine Learning, Tom M. Mitchell, ISBN: 0070428077
 
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017
@@ -63,7 +64,7 @@ Note for MCC:  target'blank' http: <a href="example.com" target="_blank">Text He
 -  **Learn Git!** [GitHub.com](https://github.com/) :free:
     - **Use Git for Everything & put All work on it!** 
     - Git and what you put on your GitHub account **IS** your new business card.
-    - [Github has a tutorial]https://guides.github.com/activities/hello-world/)
+    - [Github has a tutorial](https://guides.github.com/activities/hello-world/)
     - You may also try [Gitlab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) (ALL free).
     
 - [GoalKicker.com](https://goalkicker.com/) :free: - Programming Books
@@ -129,7 +130,7 @@ Note for MCC:  target'blank' http: <a href="example.com" target="_blank">Text He
 
 - :star: [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg)
 
-- :star: :star: Intro. to [Arrtifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- :star: Intro. to [Arrtifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 
 ## Miscellaneous
 
