@@ -5,14 +5,12 @@
 </p>
 
 **Note:** This opinoinated list is by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others. 
-
-- If you would like to **add or correct**, please make a pull request. I am on the look out for classic papers too...
  
 :star: Many sections are still **Under Construction**
 
-- [Books :books:](#books-books)
+# [Books :books:](#books-books)
 
-- [Programming Information :floppy_disk:](#programming-information-floppy_disk)
+# [Programming Information :floppy_disk:](#programming-information-floppy_disk)
  
 - [Machine Learning :tractor:](#machine-learning-tractor)
 
@@ -38,24 +36,7 @@
 
 - ## Mathematics
 
-- A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners.
-- 
-
-- Machine Learning, Tom M. Mitchell, ISBN: 0070428077
-
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017
-
-- [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
-
-- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks)
-    - GREAT resource! :free:
-    - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey
-    
-- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  :free:
-
-- Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig, ISBN-13: 978-0-13-604259-4
-    
-- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/), Bradley Boehmke & Brandon Greenwell, 2020
 
 ## Programming Information :floppy_disk:
 
@@ -101,6 +82,21 @@
 
 - [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/) :free:
 
+- A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners.
+
+- Machine Learning, Tom M. Mitchell, ISBN: 0070428077
+
+- [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
+
+- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free:
+    - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey
+    
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  :free:
+
+- Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig, ISBN-13: 978-0-13-604259-4
+    
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/), Bradley Boehmke & Brandon Greenwell, 2020
+
 ### Supervised :label:
 
 - [What are decision trees? by Carl Kingsford and Steven L Salzberg](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2701298/)
@@ -128,13 +124,21 @@
 
 ## Videos :tv:
 
-- :star: [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg)
+- [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg) High quality videos from his lectures.
 
-- :star: Intro. to [Arrtifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- Intro. to [Arrtifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured) is produced by Grant Sanderson and has GREAT animations.
+
+- [Dr. Bharatendra Rai](https://www.youtube.com/channel/UCuWECsa_za4gm7B3TLgeV_A) from Umass, Dartmouth. His videos are very professsional and filled with highly relevant code.
+
+- [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) Dr Starmer now teaches at NC state.  Josh has recently been broadcasting LIVE to boot. **BAM!**
+
+- The [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w)
 
 ## Miscellaneous
 
-- :star: [Calibre](https://calibre-ebook.com/) This program is Excellent for organizing PDF's, Epubs and mobi book and article formats. :free:
+- :star: [Calibre](https://calibre-ebook.com/) This program is Excellent for organizing PDF's, Epubs and mobi book and article formats. My **favorite cataloging software** :free:
 
 - [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/) :free:
 
