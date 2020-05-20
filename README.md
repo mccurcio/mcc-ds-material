@@ -4,7 +4,7 @@
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
-**Note:** This opinoinated list is by [Matthew Curcio](). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete or comprehensive* but simply a resource for myself and others. 
+**Note:** This opinoinated list is by [Matthew Curcio](). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others. 
 
 - If you would like to **add or correct**, please make a pull request. I am on the look out for classic papers too...
  
@@ -62,12 +62,13 @@ Note for MCC:  target'blank' http: <a href="example.com" target="_blank">Text He
 
 -  **Learn Git!** [GitHub.com](https://github.com/) :free:
     - **Use Git for Everything & put All work on it!** 
-    - Git and what you put on your GitHub account **IS** your new business card. 
-    - You may also try Gitlab and Bitbucket (all free).
+    - Git and what you put on your GitHub account **IS** your new business card.
+    - [Github has a tutorial]https://guides.github.com/activities/hello-world/)
+    - You may also try [Gitlab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) (ALL free).
     
 - [GoalKicker.com](https://goalkicker.com/) :free: - Programming Books
     - **BASH, Python, MySQL, GIT, Linux**, ... 
-    - These are more like terse notes for a quick referecne.
+    - **Love these**; they are more like terse notes for a quick reference.
 
 ### R-cran
 
