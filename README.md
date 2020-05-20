@@ -12,23 +12,20 @@
 
 # [Programming Information :floppy_disk:](#programming-information-floppy_disk)
  
-- [Machine Learning :tractor:](#machine-learning-tractor)
+# [Machine Learning :tractor:](#machine-learning-tractor)
 
      - [Supervised :label:](#supervised-label)
- 
      - [Unsupervised :apple:](#unsupervised-apple)
- 
      - [Semi-supervised :green_apple:](#semi-supervised-green_apple)
- 
      - [Reinforcement Learning :muscle:](#reinforcement-Learning-muscle)
+     
+# [Videos :tv:](#videos-tv)
 
-- [Videos :tv:](#videos-tv)
+# [People :man_student: :woman_student:](#people-man_student-woman_student)
 
-- [People :man_student: :woman_student:](#people-man_student-woman_student)
+# [Miscellaneous](#miscellaneous)
 
-- [Miscellaneous](#miscellaneous)
-
-- [Articles :page_with_curl:](#articles-page_with_curl)
+# [Articles :page_with_curl:](#articles-page_with_curl)
 
 --------------------------------------------------------------------------
 
@@ -36,7 +33,9 @@
 
 - ## Mathematics
 
-- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017
+- :star: [Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017 :free:
+
+- :star: [Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) :free:
 
 ## Programming Information :floppy_disk:
 
@@ -90,6 +89,8 @@
 
 - [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free:
     - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey
+   
+- [SVM Tutorial](https://www.svm-tutorial.com/)
     
 - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  :free:
 
@@ -126,7 +127,7 @@
 
 - [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg) High quality videos from his lectures.
 
-- Intro. to [Arrtifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- [Artifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured) is produced by Grant Sanderson and has GREAT animations.
 
@@ -134,7 +135,7 @@
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) Dr Starmer now teaches at NC state.  Josh has recently been broadcasting LIVE to boot. **BAM!**
 
-- The [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w)
+- The [MathematicalMonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w)
 
 ## Miscellaneous
 
