@@ -8,25 +8,6 @@
  
 :star: Many sections are still **Under Construction**
 
-# [Books](#books-books) :books:
-
-# [Programming Information :floppy_disk:](#programming-information-floppy_disk)
- 
-# [Machine Learning :tractor:](#machine-learning-tractor)
-
-     - [Supervised :label:](#supervised-label)
-     - [Unsupervised :apple:](#unsupervised-apple)
-     - [Semi-supervised :green_apple:](#semi-supervised-green_apple)
-     - [Reinforcement Learning :muscle:](#reinforcement-Learning-muscle)
-     
-# [Videos :tv:](#videos-tv)
-
-# [People :man_student: :woman_student:](#people-man_student-woman_student)
-
-# [Miscellaneous](#miscellaneous)
-
-# [Articles :page_with_curl:](#articles-page_with_curl)
-
 --------------------------------------------------------------------------
 
 ## Books :books:
