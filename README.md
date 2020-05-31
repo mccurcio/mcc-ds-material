@@ -8,7 +8,7 @@
  
 :star: Many sections are still **Under Construction**
 
-# [Books :books:](#books-books)
+# [Books](#books-books) :books:
 
 # [Programming Information :floppy_disk:](#programming-information-floppy_disk)
  
