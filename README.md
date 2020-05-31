@@ -18,6 +18,9 @@
 
 - :star: [Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) :free:
 
+- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free:
+   - Books on many computer languages and topics.
+
 ## Programming Information :floppy_disk:
 
 - [Free Code Camp](https://www.freecodecamp.org/news/about/) :free:
