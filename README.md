@@ -35,6 +35,11 @@
     - **BASH, Python, MySQL, GIT, Linux**, ... 
     - **Love these**; they are more like terse notes for a quick reference.
 
+## Data Visualization - Under Construction
+
+- Possible candidates are
+    - 
+
 ### R-cran
 
 - [Advanced R](https://adv-r.hadley.nz/index.html)
