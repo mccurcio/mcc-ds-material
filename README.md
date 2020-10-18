@@ -4,9 +4,12 @@
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
-**Note:** This opinoinated list is by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others.
+**Note:** :notebook: This opinoinated list is by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others.
 
 --------------------------------------------------------------------------
+
+# First Steps
+
 
 ## Books :books:
 
@@ -33,10 +36,9 @@
     - **BASH, Python, MySQL, GIT, Linux**, ... 
     - **Love these**; they are more like terse notes for a quick reference.
 
-### Data Visualization - Under Construction
+### Data Visualization
 
-- Possible candidates are
-    - 
+- Slack Group and Website: [Data Visualization Society](https://www.datavisualizationsociety.com/)
 
 ### R-cran
 
@@ -56,7 +58,9 @@
   
 ### Markdown :arrow_down_small:
 
-- [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :free:
+- [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :m:
+
+- For a full list of available Github markdown emoji and codes, check out [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
    
 ### Linux :penguin:
 
