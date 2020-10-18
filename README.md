@@ -4,15 +4,13 @@
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
-**Note:** This opinoinated list is by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others. 
- 
-:star: Many sections are still **Under Construction**
+**Note:** This opinoinated list is by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others.
 
 --------------------------------------------------------------------------
 
 ## Books :books:
 
-- ## Mathematics
+### Mathematics
 
 - :star: [Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017 :free:
 
@@ -21,7 +19,7 @@
 - [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free:
    - Books on many computer languages and topics.
 
-## Programming Information :floppy_disk:
+### Programming Information :floppy_disk:
 
 - [Free Code Camp](https://www.freecodecamp.org/news/about/) :free:
 
@@ -35,7 +33,7 @@
     - **BASH, Python, MySQL, GIT, Linux**, ... 
     - **Love these**; they are more like terse notes for a quick reference.
 
-## Data Visualization - Under Construction
+### Data Visualization - Under Construction
 
 - Possible candidates are
     - 
@@ -54,9 +52,9 @@
 
 - :free: [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/) :free:
   
-#### SQL - Under Construction
+### SQL - Under Construction
   
-#### Markdown :arrow_down_small:
+### Markdown :arrow_down_small:
 
 - [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :free:
    
@@ -64,7 +62,7 @@
 
 - [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux) :free:
 
-## Machine Learning :tractor:
+### Machine Learning :tractor:
 
 - [Hands-On Machine Learning with R by Bradley Boehmke, et al](https://bradleyboehmke.github.io/HOML/) :free:
 
@@ -114,13 +112,15 @@
 
 ## Videos :tv:
 
-- [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg) High quality videos from his lectures.
+- [FreeCodeCamp](https://www.freecodecamp.org/) **FCC** has a ton of video lectures on Youtube and which are available thru their own site. The community is welcoming, too.
 
-- [Artifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg) High quality videos from his lectures. One of my **Favorites**.
+
+- [Artifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)  One of my **Favorites**.
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured) is produced by Grant Sanderson and has GREAT animations.
 
-- [Dr. Bharatendra Rai](https://www.youtube.com/channel/UCuWECsa_za4gm7B3TLgeV_A) from Umass, Dartmouth. His videos are very professsional and filled with highly relevant code.
+- [Dr. Bharatendra Rai](https://www.youtube.com/channel/UCuWECsa_za4gm7B3TLgeV_A) from Umass, Dartmouth. His videos are very professsional and filled with highly relevant code. Dr Rai's videos are very clear and methodical.
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) Dr Starmer now teaches at NC state.  Josh has recently been broadcasting LIVE to boot. **BAM!**
 
@@ -128,8 +128,10 @@
 
 ## Miscellaneous
 
-- :star: [Calibre](https://calibre-ebook.com/) This program is Excellent for organizing PDF's, Epubs and mobi book and article formats. My **favorite cataloging software** :free:
+- :star: [Calibre](https://calibre-ebook.com/) This program is Excellent for organizing PDF's, Epubs and mobi book and article formats. My **favorite book and pdf cataloging software** :free:
 
 - [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/) :free:
+
+- [LeanPub](https://leanpub.com/) is a great resource for computer related books. Many books are pay what you want. They have books by Roger Peng and Jeff Leek who have written books on D.S.
 
 [Back to top ↑](#data-Science-Practitioner's-Reading-List)
