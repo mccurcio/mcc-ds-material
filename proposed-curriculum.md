@@ -1,105 +1,122 @@
-#NOTES for  Cirriculum outline
+#Matt's D.S. Curriculum outline
 
-## UW
+Proposed Videos/Lectures/Course
 
-- Data Visualization for Data Scientists	DATA 514
-- Data Management for Data Science	DATA 515
-- Software Design for Data Science, DATA 556
-- Introduction to Statistics & Probability	DATA 557
-- Applied Statistics & Experimental Design	DATA 558
-- Statistical Machine Learning for Data Science, DATA 598
-- Topics in Data Science, DATA 512
-- Human-Centered Data Science	DATA 591
-- Scalable Data Systems and Algorithms
+1. Git and Github
+2. Lesson 2; Base R
+    - "Let's get going with Base R"
+    - Can you work as fast as Excel?
+    1. Load data
+    2. Check data
+    3. Visually Inspect data
+    4. Model data
+4. Exploratory Data Analysis
+    - I plan to use Kaggle as my reference to see what the average EDA does.
+    - What are the most common commands used in EDA.
+    - SEE: https://www.kaggle.com/notaapple/detailed-exploratory-data-analysis-using-r
+    - I would like to take a hands on approach. I'm toying with the title(s) of "Helpful EDA", "Getting EDA Done", "Your First Assignment", "Get Useful Data", "Become Useful in R Quickly"
+    - Why does one Do EDA? What can you find?
+    - Outline the steps for EDA
+    - Outline Steps for section(s)
+        - Abstract
+        - Loading Libraries and Data, Load and check data
+        - Check data w/ head, str, dim, glimpse, summary, is.na, sapply(ksdata, function(x) sum(is.na(x))), c(ncol(train),nrow(train))
+        - colSums(is.na(df)), is.null(df), table(dtrain$is_attributed))
+        - Missing values?, na.rm=(T,F), colSums(is.na(combine_train))
+        - (Re)Naming Columns
+        - Check for correlation(s),  cor(train$target, method = "spearman")
+        - Graphics/scatterplots, histograms, line plots, boxplots, 
+        - Find min, max, range, median, mean
+5. Storing your data for others to see; RMD, Using Rpubs.com & Github & producing HTML or PDF, {png, pdf, jpg}&dev.off
+    ---
+    title: "Rossmann Exploratory Analysis"
+    author: "Christian Thiele"
+    date: "8. Oktober 2015"
+    output: html_document
+    ---
+6. . RMarkdown;The simplest language you will love.
+7. Linear Models; Relationships between x & y, Correlation, lm(), 
 
+8. Move on to `skimr package` & `skim()`
+9. HOW to make a CASE for Using R over Excel or SAS, SPSS, JUMP, etc.
 
+## 1. Introduction to R/Getting Started with R
 
-## UCB
+>This first course is intended to be a very basic intro to:
 
-Introduction to Data Science Programming - Object oriented programming  /  Data analysis using scientific programming packages  /  Module, class, and function development  /  Best practices and coding hygiene
+This set of videos is designed for the first time user of R.
 
----
+I am a scientist by training but not a computer scientist or a statistician. Therefore I like numbers and playing with them. 
 
-http://guide.berkeley.edu/undergraduate/degree-programs/data-science/
-- MATH 1A - Calculus
-- MATH 54	- Linear Algebra and Differential Equations
-or STAT 89A	Linear Algebra for Data Science
-or EECS 16A - Designing Information Devices and Systems I
+I am not a computer scientist, so I will start off with mindset of using this interesting tool.
 
-- Designing Information Devices and Systems II
-or PHYSICS 89 - Introduction to Mathematical Physics
-- COMPSCI 61A - The Structure and Interpretation of Computer Programs	4
-or COMPSCI 88 - Computational Structures in Data Science
-or ENGIN 7 - Introduction to Computer Programming for Scientists and Engineers
-- COMPSCI 61B - Data Structures
+Much like your own car, Most of us know how to drive it. Most of us do not know the theory behind engineering a car or even how to fix it when you are on the side of the road.
 
-- COMPSCI 162	- Operating Systems and System Programming
+However, we all expect our cars to do certain things, accelerate when you press the gas pedal and steer in the direction we want to go.
 
-- COMPSCI 170	Efficient Algorithms and Intractable Problems
-- COMPSCI 186	Introduction to Database Systems
-- COMPSCI 188	Introduction to Artificial Intelligence
+R has been around for a 25-30 years. That's fine . But what does this mean? It means that over time many people have made additions to the BASE package. I believe in learning in steps. Learn the basics (or BASE package) first. Then move to packages that have that add more functionality. I have found that it is common to find more functionality can commonly mean more sophistication and details and complications.
 
-- ECON 140	Economic Statistics and Econometrics	4
-or ECON 141	Econometric Analysis
-- EECS 127	Optimization Models in Engineering	4
-- EL ENG 120	Signals and Systems	4
-- EL ENG 123	Digital Signal Processing	4
-EL ENG 129	Course Not Available	3
-- ESPM 174	Design and Analysis of Ecological Research	4
-- IND ENG 115	Industrial and Commercial Data Systems	3
-- IND ENG 135	Applied Data Science with Venture Applications	3
-- IND ENG 173	Introduction to Stochastic Processes	3
-- INFO 154	Data Mining and Analytics	3
-- INFO 159	Natural Language Processing
-
-
-EL ENG 126	Probability and Random Processes	4
-IND ENG 172	Probability and Risk Analysis for Engineers	3
-STAT 134	Concepts of Probability	4
-STAT 140	Probability for Data Science
-
-COMPSCI 182	Designing, Visualizing and Understanding Deep Neural Networks	4
-COMPSCI 189	Introduction to Machine Learning	4
-IND ENG 142	Introduction to Machine Learning and Data Analytics	3
-STAT 102	Data, Inference, and Decisions ("Data 102")	4
-STAT 154	Modern Statistical Prediction and Machine Learning
-
----
-
-## amstat.org
-
-- https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf
-KEY COMPETENCIES FOR AN UNDERGRADUATE DATA SCIENCE MAJOR
- Computational and statistical thinking
- Mathematical foundations
- Model building and assessment
- Algorithms and software foundation
- Data curation
- Knowledge transference—communication and responsibility
-
----
-
-## wisc.edu
-
-- https://stat.wisc.edu/undergraduate-data-science-studies/
-FOUNDATIONAL DATA SCIENCE COURSES (19-20 CR)
-- STAT 240 Introduction to Data Modeling I (4 cr)
-- STAT 340 Introduction to Data Modeling II (4 cr)
-- COMP SCI 220 Data Programming I (4 cr) previously taught as COMP SCI 301
-- COMP SCI 320 Data Programming II (4 cr)
-- L I S 461 Data and Algorithms: Ethics and Policy (3-4 cr)
-DATA SCIENCE ELECTIVES (18 CR)
-Students must take at least one course from each of the four following categories 
-- Machine Learning
-Advanced Computing
-- Statistical Modeling
-- Linear Algebra 
+1. How to install R
+2. How to install RStudio
+3. Layout of RStudio
+4. Getting Help
+5. Importing Your Own Data; `read.csv` & Import using RStudio Shortcut
+7. Examine our Data; `str`
+8. Finding more data
+9. Projects
+10. Files in R
+11. Packages
+12. Wrapping Up
+13. Objects and Functions
 
 
 
 
 
 
+
+
+## 2. Lesson 2; Base R
+
+
+Course Content
+Welcome Sample Lesson
+RMarkdown
+Why Use RMarkdown? Sample Lesson
+RMarkdown Overview
+YAML
+Text
+Code Chunks
+Wrapping Up
+Data Wrangling and Analysis
+Getting Started
+The Tidyverse
+select
+mutate
+filter
+summarize
+group_by Sample Lesson
+count
+arrange
+Create a New Data Frame
+Crosstabs
+Wrapping Up
+Data Visualization
+An Important Workflow Tip
+The Grammar of Graphics
+Scatterplots Sample Lesson
+Histograms
+Bar Charts
+color and fill
+scales
+Text and Labels
+Plot Labels
+Themes
+Facets
+Save Plots
+Wrapping Up
+Wrapping Up
+You Did It!
 
 
 

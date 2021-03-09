@@ -4,12 +4,11 @@
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
-**Note:** :notebook: This opinoinated list is by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. It is **NOT** *complete nor comprehensive* but simply a resource for myself and others.
+**Note:** :notebook: This list is compiled by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. This list is **NOT** *complete nor comprehensive* but rather a resource for myself and others.
 
 --------------------------------------------------------------------------
 
 # First Steps
-
 
 ## Books :books:
 
@@ -39,6 +38,8 @@
 ### Data Visualization
 
 - Slack Group and Website: [Data Visualization Society](https://www.datavisualizationsociety.com/)
+
+- [Mastering Shiny](https://mastering-shiny.org/) - is an online book on using R to produce an interactive graphic or dashboard.
 
 ### R-cran
 
