@@ -2,10 +2,13 @@
 
 Proposed Videos/Lectures/Course
 
+
+
+
+
 1. Git and Github
 2. Lesson 2; Base R
-    - "Let's get going with Base R"
-    - Can you work as fast as Excel?
+    - "Let's get going with Base R?
     1. Load data
     2. Check data
     3. Visually Inspect data
@@ -125,4 +128,4 @@ You Did It!
 
 
 
-
+See: [Types of Data](https://i.stack.imgur.com/3QemG.gif)
