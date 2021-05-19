@@ -4,13 +4,17 @@
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
 
-**Note:** :notebook: This list is compiled by [Matthew Curcio](https://mcc1.netlify.app/). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. This list is **NOT** *complete nor comprehensive* but rather a resource for myself and others.
+**Note:** :notebook: This list is compiled by [Matthew Curcio](https://github.com/mccurcio). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. This list is **NOT** *complete nor comprehensive* but rather a resource for myself and others.
 
 --------------------------------------------------------------------------
 
 # First Steps
 
 ## Books :books:
+  
+### Data Science
+  
+- [Virgilio](https://virgili0.github.io/Virgilio/)
 
 ### Mathematics
 
@@ -42,6 +46,8 @@
 - [Mastering Shiny](https://mastering-shiny.org/) - is an online book on using R to produce an interactive graphic or dashboard.
 
 ### R-cran
+  
+- [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion
 
 - [Advanced R](https://adv-r.hadley.nz/index.html)
 
