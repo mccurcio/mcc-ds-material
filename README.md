@@ -9,12 +9,17 @@
 --------------------------------------------------------------------------
 
 # First Steps
-
-## Books :books:
   
-### Data Science
+
+  
+## Online Courses:
+  
+- [fast.ai - Making neural nets uncool again](https://www.fast.ai/)
   
 - [Virgilio](https://virgili0.github.io/Virgilio/)
+
+
+## Books :books:
 
 ### Mathematics
 
