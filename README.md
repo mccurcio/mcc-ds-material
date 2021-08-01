@@ -61,6 +61,12 @@
 - [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/) :free:
 
 ### Python :snake:
+  
+- Right now, I am working on the [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/). 
+
+- However there are so many alternatives
+
+- [Learn X in Y minutes, X = Python](https://learnxinyminutes.com/docs/python/)
 
 ### Bash :goat:
 
