@@ -67,6 +67,12 @@
 - However there are so many alternatives
 
 - [Learn X in Y minutes, X = Python](https://learnxinyminutes.com/docs/python/)
+  
+- [Sthurlow.com](http://sthurlow.com/python/lesson01/)
+  
+- [IPython Interactive Computing](https://ipython.org/books.html)
+  
+-(Intermediate Python)[https://book.pythontips.com/en/latest/args_and_kwargs.html]
 
 ### Bash :goat:
 
