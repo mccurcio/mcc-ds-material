@@ -72,7 +72,9 @@
   
 - [IPython Interactive Computing](https://ipython.org/books.html)
   
--(Intermediate Python)[https://book.pythontips.com/en/latest/args_and_kwargs.html]
+- [Intermediate Python](https://book.pythontips.com/en/latest/args_and_kwargs.html)
+  
+- [Cosmicpython](https://www.cosmicpython.com/#buy_the_book)
 
 ### Bash :goat:
 
