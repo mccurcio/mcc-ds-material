@@ -52,9 +52,9 @@
 
 ### R-cran
   
-- [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion
+- [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion :free:
 
-- [Advanced R](https://adv-r.hadley.nz/index.html)
+- [Advanced R](https://adv-r.hadley.nz/index.html) :free:
 
 - [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/) :free:
 
@@ -84,7 +84,7 @@
   
 ### Markdown :arrow_down_small:
 
-- [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :m:
+- [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :m: :free:
 
 - For a full list of available Github markdown emoji and codes, check out [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
    
@@ -146,15 +146,15 @@
 
 - [FreeCodeCamp](https://www.freecodecamp.org/) **FCC** has a ton of video lectures on Youtube and which are available thru their own site. The community is welcoming, too.
 
-- [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg) High quality videos from his lectures. One of my **Favorites**.
+- :star: [Victor Lavrenko](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg) High quality videos from his lectures. One of my **Favorites**.
 
-- [Artifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)  One of my **Favorites**.
+- :star: [Artifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)  One of my **Favorites**.
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured) is produced by Grant Sanderson and has GREAT animations.
 
-- [Dr. Bharatendra Rai](https://www.youtube.com/channel/UCuWECsa_za4gm7B3TLgeV_A) from Umass, Dartmouth. His videos are very professsional and filled with highly relevant code. Dr Rai's videos are very clear and methodical.
+- :star: [Dr. Bharatendra Rai](https://www.youtube.com/channel/UCuWECsa_za4gm7B3TLgeV_A) from Umass, Dartmouth. His videos are very professsional and filled with highly relevant code. Dr Rai's videos are very clear and methodical.
 
-- [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) Dr Starmer now teaches at NC state.  Josh has recently been broadcasting LIVE to boot. **BAM!**
+- :star: [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) Dr Starmer now teaches at NC state.  Josh has recently been broadcasting LIVE to boot. **BAM!**
 
 - The [MathematicalMonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w)
 
@@ -164,6 +164,6 @@
 
 - [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/) :free:
 
-- [LeanPub](https://leanpub.com/) is a great resource for computer related books. Many books are pay what you want. They have books by Roger Peng and Jeff Leek who have written books on D.S.
+- :star: [LeanPub](https://leanpub.com/) is a great resource for computer related books. Many books are pay what you want. They have books by Roger Peng and Jeff Leek who have written books on D.S.
 
 [Back to top ↑](#data-Science-Practitioner's-Reading-List)
