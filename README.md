@@ -14,9 +14,9 @@
   
 ## Online Courses:
   
-- [fast.ai - Making neural nets uncool again](https://www.fast.ai/)
+- [fast.ai - Making neural nets uncool again](https://www.fast.ai/) - I am still evaluating this...
   
-- [Virgilio](https://virgili0.github.io/Virgilio/)
+- [Virgilio](https://virgili0.github.io/Virgilio/) - I am still evaluating this...
 
 
 ## Books :books:
@@ -131,6 +131,8 @@
     This paper 2007 is GREAT for new people. This paper is good for perspective.
 
 ## People :man_student: :woman_student:
+  
+- [Andrew Ng](https://www.andrewng.org/) - Dr Ng is one of the creators of Coursera, but he also has additional [machine learning content](https://www.deeplearning.ai/)
 
 - [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)
     - :star:[Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
