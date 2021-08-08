@@ -128,7 +128,7 @@
 ### Articles :page_with_curl:
 
 - :star: [Top 10 algorithms in data mining by Xindong Wu et al](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf) 
-    This paper 2007 is GREAT for new people. This paper is good for perspective.
+    I found this 2007 paper really interesting as it was my starting point. The written explanations of the ML tools are not written for beginners in mind, however I feel that it provides a look into which tools are commonly used (as of 2007) and still important overall. I might suggest pulling out the Algos and investigating them in conjunction with other literature.
 
 ## People :man_student: :woman_student:
   
