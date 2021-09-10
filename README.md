@@ -98,14 +98,14 @@
 
 - [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/) :free:
 
-- A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners.
+- A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners. :free:
 
 - Machine Learning, Tom M. Mitchell, ISBN: 0070428077
 
 - [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
 
 - [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free:
-    - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey
+    - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey :free:
    
 - [SVM Tutorial](https://www.svm-tutorial.com/)
     
