@@ -9,14 +9,6 @@
 --------------------------------------------------------------------------
 
 # First Steps
-  
-
-  
-## Online Courses:
-  
-- [fast.ai - Making neural nets uncool again](https://www.fast.ai/) - I am still evaluating this...
-  
-- [Virgilio](https://virgili0.github.io/Virgilio/) - I am still evaluating this...
 
 
 ## Books :books:
@@ -167,3 +159,14 @@
 - :star: [LeanPub](https://leanpub.com/) is a great resource for computer related books. Many books are pay what you want. They have books by Roger Peng and Jeff Leek who have written books on D.S.
 
 [Back to top ↑](#data-Science-Practitioner's-Reading-List)
+  
+  
+---
+  
+## Untested
+
+### Online Courses:
+  
+- [fast.ai - Making neural nets uncool again](https://www.fast.ai/) - I am still evaluating this...
+  
+- [Virgilio](https://virgili0.github.io/Virgilio/) - I am still evaluating this...
