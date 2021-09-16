@@ -8,14 +8,15 @@ NOTE; For matt, **Provide Outline of Course or of Session(?)**
 
 ## What is R?
 
-1. The ([R-Project](https://cran.r-project.org/index.html)) is a [freely available, open-source](https://en.wikipedia.org/wiki/R_(programming_language)) language and environment for statistical computing.  
+1. The ([R-Project](https://cran.r-project.org/index.html)) is a freely available, open-source language and environment for statistical computing.  
+   - See: [Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language)) 
    - It includes scientific, graphical, linear and nonlinear modelling, statistical tests, time series analysis, classification, and clustering libraries. 
    - R-Archive contains over 18,000 available packages.
    - R is used by Kaggle, [Google, Twitter, Facebook, Microsoft, Uber, etc](https://www.listendata.com/2016/12/companies-using-r.html).
 
 2. R can be used with MS Windows, Mac OS, and Linux.
    - The **most common IDE** is from [RStudio.com](https://www.rstudio.com/products/rstudio/download/).
-   - But it can be used alone, within [IPython notebooks](https://jupyter.readthedocs.io/en/latest/install/kernels.html) and the [Apache Spark API](https://en.wikipedia.org/wiki/Apache_Spark).
+   - But it can be used as a stand-alone terminal, a server [RStudio-Server](https://www.rstudio.com/products/rstudio/download-server/) within [IPython notebooks](https://jupyter.readthedocs.io/en/latest/install/kernels.html) and the [Apache Spark API](https://en.wikipedia.org/wiki/Apache_Spark).
    
 3. Microsoft purchased the rights to use R in 2015 and uses it heavily.
    - [Microsoft R Open](https://mran.microsoft.com/open) has [improved performance, reproducibility](https://mran.microsoft.com/rro#intelmkl1), as well as support for Windows and Linux-based platforms.
