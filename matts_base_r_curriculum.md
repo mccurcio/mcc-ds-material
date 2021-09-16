@@ -1,24 +1,44 @@
-#Matt's Base R Curriculum
+# Base R Curriculum
 
+*"the no-bs approach"*
 
-## Lesson 1 Getting Started; First Steps
+NOTE; For matt, **Provide Outline of Course or of Session(?)**
 
-REMEMBER: **Speak very slowly in the video. It can always be sped up. Provide Outline of Course or of Session.**
+**NOTE**: This tutorial assumes you know how to download and install software on you operating system.
 
-1. Install and Get ready to Use R
-    - There are two pieces of software that help a new person get up and going quickly.
-    - The first one is found at [R-cran](https://cran.r-project.org/)
-    - Notice in the top box it says **Download and Install R**
-    - Let's pause here for a moment to look around.
-3. download R/install
-4. Goto RStudio
-5. download RStudio/install
-6. Open RStudio
-7. Projects; 
-    - Allow you to place all your materials in one folder
-	- Such as R scripts
-	- data, tabular data
-	- 
+## What is R?
+
+1. The ([R-Project](https://cran.r-project.org/index.html)) is a [freely available, open-source](https://en.wikipedia.org/wiki/R_(programming_language)) language and environment for statistical computing.  
+   - It includes scientific, graphical, linear and nonlinear modelling, statistical tests, time series analysis, classification, and clustering libraries. 
+   - R-Archive contains over 18,000 available packages.
+   - R is used by Kaggle, [Google, Twitter, Facebook, Microsoft, Uber, etc](https://www.listendata.com/2016/12/companies-using-r.html).
+
+2. R can be used with MS Windows, Mac OS, and Linux.
+   - The **most common IDE** is from [RStudio.com](https://www.rstudio.com/products/rstudio/download/).
+   - But it can be used alone, within [IPython notebooks](https://jupyter.readthedocs.io/en/latest/install/kernels.html) and the [Apache Spark API](https://en.wikipedia.org/wiki/Apache_Spark).
+   
+3. Microsoft purchased the rights to use R in 2015 and uses it heavily.
+   - [Microsoft R Open](https://mran.microsoft.com/open) has [improved performance, reproducibility](https://mran.microsoft.com/rro#intelmkl1), as well as support for Windows and Linux-based platforms.
+ 
+4. For R Help:
+   - [Stackoverflow, tag = [r]](https://stackoverflow.com/questions/tagged/r)
+   - https://www.r-project.org/help.html
+   - https://community.rstudio.com/
+   - https://www.r-bloggers.com
+   - [R-Blogger article](https://www.r-bloggers.com/2018/07/where-to-get-help-with-your-r-question/)
+   - [Youtube](https://www.youtube.com/c/RStudioPBC/featured)
+
+## Getting Started
+
+1. Download and install [R-CRAN](https://cran.r-project.org/index.html), (Comprehensive R Archive Netowrk)
+
+Insert pix of r-cran
+
+2. Download and install [RStudio IDE](https://www.rstudio.com/products/rstudio/download/)
+
+Insert pix of RStudio
+
+============= OK ===========================
 
 
 Projects
@@ -36,31 +56,11 @@ Wrapping Up
 
 ## Lesson 2; Base R
 
-- **Possible Titles**; "Get going with R", "Fraternity Equality and Freedom with R", "Start Being Productive w R", "Baby Steps w R", "Taking Your First Steps in R", "Getting it done w R"
-
-
-### Q. Can you work as fast as Excel? A. Sure  
-
-Five reasons why people use R and RStudio
-
-1. EXCEL IS USED BY HALF A BILLION PEOPLE WORLDWIDE  
-2. R is trusted by large companies, like Microsoft, Uber, etc.
-
-1. You can get what you need quickly – no waiting for the IT department to deal with your question
-2. When you know Excel it’s incredibly flexible.
-3. Problems with Excel are usually because of misuse
-4. There is a huge amount of help out there for Excel users.
-5. Excel has got better at sharing.
 
 - What is Base R? Give Simple Explanation
 
 ### Why use R?  
-1. Improves Flexibility and Agility  
-    + Freedom from lock-in  
-    + No Upgrade Push  
-    + Ability to start small and work to any size  
-    + Provides greater scalability  
-2. Reproducibility, Ability to run "SOP"  
+
 3. Helps you Connect to Communities  
     + Excellent Support Options,   
     + It Can Help Morale (and Recruiting!) when Engineers Can Share What They're Working On.  
@@ -74,12 +74,6 @@ Five reasons why people use R and RStudio
     + You can add the features you want later,  
     
 NOTE: "<" quoted text represents what will be spoken during the short 2-5 minute video.
-
->R is approximately 30 years old. Why does that matter? 
->
->Think about an old car for a second, like the Ford Model T. For the most part it does everything a car should do. It seats 2 or 4. It has a windshield. It has tires and it goes 30 miles per hour. R is no different. It is simple to use. It is simple to understand.
->
->R is the same way. R has a simple set of commands (called Base-R) that allows you to use it easily and quickly.
 
 
 1. Load data 
