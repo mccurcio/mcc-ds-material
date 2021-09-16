@@ -8,8 +8,8 @@ NOTE; For matt, **Provide Outline of Course or of Session(?)**
 
 ## What is R?
 
-1. The ([R-Project](https://cran.r-project.org/index.html)) is a freely available, open-source language and environment for statistical computing.  
-   - See: [Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language)) 
+1. The [R-Project](https://cran.r-project.org/index.html) is a freely available, open-source language and environment for statistical computing.  
+   - For history see: [Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language)) 
    - It includes scientific, graphical, linear and nonlinear modelling, statistical tests, time series analysis, classification, and clustering libraries. 
    - R-Archive contains over 18,000 available packages.
    - R is used by Kaggle, [Google, Twitter, Facebook, Microsoft, Uber, etc](https://www.listendata.com/2016/12/companies-using-r.html).
