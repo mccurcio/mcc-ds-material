@@ -33,11 +33,11 @@ NOTE; For matt, **Provide Outline of Course or of Session(?)**
 
 1. Download and install [R-CRAN](https://cran.r-project.org/index.html), (Comprehensive R Archive Netowrk)
 
-Insert pix of r-cran
+![R-cran web page](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/R-CRAN.png)
 
 2. Download and install [RStudio IDE](https://www.rstudio.com/products/rstudio/download/)
 
-Insert pix of RStudio
+![RStudio web page](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/RStudio.png)
 
 ============= OK ===========================
 
