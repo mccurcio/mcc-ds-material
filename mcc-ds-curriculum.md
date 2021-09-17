@@ -1,12 +1,49 @@
-#Matt's D.S. Curriculum outline
+# MCC's Data Science Curriculum Outline
 
-Proposed Videos/Lectures/Course
+*"The no-bs version"*
+
+My course curriculum assumes you know:
+1. How to use Linux Mint/Ubuntu. 
+2. How to install software and troubleshoot installations.
+
+## Git & Github
+
+1. Download Git from https://git-scm.com/
+2. Install Git on your computer.
+3. [Set up Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) with **git config**
+
+```
+git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
+
+---
+
+![Git-scm Home Page](https://github.com/mccurcio/mcc-ds-material/blob/master/assets/gitscm.png)
+
+---
+
+3. Near the bottom of the screen find the book *Pro-Git*. [Download it for later reference](https://git-scm.com/book/en/v2) **OR** read it online.
+
+4. Open a Github account at https://github.com/
+
+5. Use your new Github account for storing all your computer work and as a project diary or note collection 'device'.
+
+**NOTE**: The 5th point is my own and based on my bias. To me, it is better to save old work than to trash it and realize it was important down the road.
+
+6. The number most common commands to learn are:
+  - git init
+  - git clone
+  - git status
+  - git add 
+  - git commit
+  - git pull
 
 
 
 
 
-1. Git and Github
+
 2. Lesson 2; Base R
     - "Let's get going with Base R?
     1. Load data
