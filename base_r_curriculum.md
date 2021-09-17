@@ -59,9 +59,9 @@ Wrapping Up
 
 ## Starting RStudio
 
-It is possible to run R using its native terminal window. BUT, I will not discuss that at this time.
-
 1. We will start by opening RStudio.
+
+*It is possible to run R using its native terminal window. BUT, this will not be discussed at this time.*
 
 ---
 
