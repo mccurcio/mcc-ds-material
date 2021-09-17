@@ -78,12 +78,3 @@ Here are **2 R-cheat-sheets** that I happen to like.
 1. [R Commands Summary](https://statweb.stanford.edu/~susan/courses/s141/RNotes.pdf)
 2. [A short list of some useful R commands](https://www.webpages.uidaho.edu/~stevel/251/comR.pdf)
 
-
-
-
-1. Load data 
-    1. From Google Sheets, using library(googlesheets4)
-    2. From .csv
-2. Check data
-3. Visually Inspect data
-4. Model data
