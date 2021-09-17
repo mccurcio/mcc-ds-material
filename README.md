@@ -3,14 +3,21 @@
     <img src="./assets/ds-venn-diagram.png" alt="Your Road Map" />
   <h2 align="center">Data Science Practitioner's Reading List</h2>
 </p>
+  
+<p align="center">
+  <em>"the no-bs approach"</em>
+</p>
 
-**Note:** :notebook: This list is compiled by [Matthew Curcio](https://github.com/mccurcio). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. This list is **NOT** *complete nor comprehensive* but rather a resource for myself and others.
+**Note:** This list is compiled by [Matthew Curcio](https://github.com/mccurcio). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. Whenever possible I have chosen material that is *FREE*. 
+
+<p align="center">
+  This list is *NOT complete nor comprehensive* but rather a resource for myself and others.
+</p>
 
 --------------------------------------------------------------------------
 
 # First Steps
-
-
+  
 ## Books :books:
 
 ### Mathematics
