@@ -26,7 +26,7 @@ Wrapping Up
    * The *most commonly used IDE* is **RStudio** at [Rstudio.com](https://www.rstudio.com/products/rstudio/download/). 
 
 3. Microsoft purchased the rights to use R in 2015 and uses it heavily.
-   * [Microsoft R Open](https://mran.microsoft.com/open) has [multithreaded performance](https://mran.microsoft.com/rro#intelmkl1), as well as support for Windows and Linux-based platforms.
+   * [Microsoft R Open](https://mran.microsoft.com/open) has [multithreaded support](https://mran.microsoft.com/rro#intelmkl1), as well as support for Windows and Linux-based platforms.
    * R is used by Kaggle, Google, Twitter, Facebook, Microsoft, Uber, [example article](https://www.listendata.com/2016/12/companies-using-r.html).
  
 4. For R Help:
