@@ -24,7 +24,8 @@ Wrapping Up
    * R is used by Kaggle, [Google, Twitter, Facebook, Microsoft, Uber, etc](https://www.listendata.com/2016/12/companies-using-r.html).
 
 2. R can be used with MS Windows, Mac OS, and Linux.
-   * R can be used as a stand-alone terminal, but the *most commonly used IDE* is **RStudio** at [Rstudio.com](https://www.rstudio.com/products/rstudio/download/). 
+   * R can be used as a stand-alone terminal, 
+   * But the *most commonly used IDE* is **RStudio** at [Rstudio.com](https://www.rstudio.com/products/rstudio/download/). 
 
 3. Microsoft purchased the rights to use R in 2015 and uses it heavily.
    * [Microsoft R Open](https://mran.microsoft.com/open) has [multithreaded performance](https://mran.microsoft.com/rro#intelmkl1), as well as support for Windows and Linux-based platforms.
