@@ -37,9 +37,6 @@ git config --global user.email johndoe@example.com
 - GitLab has a good [Cheat-sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) too!
 
 7. The 8 most common commands I use are:
-    - Learn them via practice.
-    - 
-
 
 ```bash
 git init
@@ -52,6 +49,7 @@ git branch [branch-name]
 git checkout [branch-name]
 ```
 
+- Try: [FreeCodeCamp](https://www.freecodecamp.org/news/practical-git-and-git-workflows).
 
 
 
