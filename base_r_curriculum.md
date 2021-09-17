@@ -19,24 +19,24 @@ Wrapping Up
 ## What is R?
 
 1. The [R-Project](https://cran.r-project.org/index.html) is a freely available, open-source language and environment for statistical computing.  
+   * R-Archive contains over **18,000** packages: *scientific, graphical, linear and nonlinear modelling, statistical tests, time series analysis, classification, and clustering* libraries.
    * For history see: [Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language)).
-   * R-Archive contains over 18,000 packages: *scientific, graphical, linear and nonlinear modelling, statistical tests, time series analysis, classification, and clustering* libraries.
-   * R is used by Kaggle, Google, Twitter, Facebook, Microsoft, Uber, [Example article](https://www.listendata.com/2016/12/companies-using-r.html).
 
 2. R can be used with MS Windows, Mac OS, and Linux.
-   * R can be used as a stand-alone terminal, 
-   * But the *most commonly used IDE* is **RStudio** at [Rstudio.com](https://www.rstudio.com/products/rstudio/download/). 
+   * The *most commonly used IDE* is **RStudio** at [Rstudio.com](https://www.rstudio.com/products/rstudio/download/). 
 
 3. Microsoft purchased the rights to use R in 2015 and uses it heavily.
    * [Microsoft R Open](https://mran.microsoft.com/open) has [multithreaded performance](https://mran.microsoft.com/rro#intelmkl1), as well as support for Windows and Linux-based platforms.
+   * R is used by Kaggle, Google, Twitter, Facebook, Microsoft, Uber, [example article](https://www.listendata.com/2016/12/companies-using-r.html).
  
 4. For R Help:
+   * [R manuals](https://cran.r-project.org/manuals.html)
    * [Stackoverflow, tag = [r]](https://stackoverflow.com/questions/tagged/r)
    * https://www.r-project.org/help.html
    * https://community.rstudio.com/
    * https://www.r-bloggers.com
-   * [R-Blogger article](https://www.r-bloggers.com/2018/07/where-to-get-help-with-your-r-question/)
    * [Youtube](https://www.youtube.com/c/RStudioPBC/featured)
+
 
 ## Getting Started
 
