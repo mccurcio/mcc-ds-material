@@ -6,15 +6,15 @@ My course curriculum assumes you know:
 1. How to use Linux Mint/Ubuntu. 
 2. How to install software and troubleshoot installations.
 
-## Git & Github
+## 1. Git & Github
 
 1. Download Git from https://git-scm.com/
-2. Install Git on your computer.
+2. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer.
 3. [Set up Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) with **git config**
 
-```
+```bash
 git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+git config --global user.email johndoe@example.com
 ```
 
 ---
@@ -31,15 +31,23 @@ $ git config --global user.email johndoe@example.com
 
 **NOTE**: The 5th point is my own and based on my bias. To me, it is better to save old work than to trash it and realize it was important down the road.
 
-6. The number most common commands to learn are:
-  - git init
-  - git clone
-  - git status
-  - git add 
-  - git commit
-  - git pull
+6. The Git website has a decent [Cheat-sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) to download.
 
+6. The 8 most common commands to learn are:
 
+```bash
+git init
+git clone [url]
+git status
+git add [\*]
+git commit -m 
+git pull
+git branch [branch-name]
+git checkout [branch-name]
+```
+
+- Learn by practicing these commands.
+- 
 
 
 
