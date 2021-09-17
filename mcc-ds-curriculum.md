@@ -33,21 +33,22 @@ git config --global user.email johndoe@example.com
 
 6. The Git website has a decent [Cheat-sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) to download.
 
-6. The 8 most common commands to learn are:
+6. The 8 most common commands I use are:
+
+- Learn them via practice.
+- 
+
 
 ```bash
 git init
 git clone [url]
 git status
-git add [\*]
+git add [.]
 git commit -m 
 git pull
 git branch [branch-name]
 git checkout [branch-name]
 ```
-
-- Learn by practicing these commands.
-- 
 
 
 
