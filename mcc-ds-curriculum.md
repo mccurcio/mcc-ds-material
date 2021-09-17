@@ -43,7 +43,7 @@ git init
 git clone [url]
 git status
 git add [.]
-git commit -m 
+git commit -m "message"
 git pull
 git branch [branch-name]
 git checkout [branch-name]
@@ -52,8 +52,22 @@ git checkout [branch-name]
 - Try: [FreeCodeCamp](https://www.freecodecamp.org/news/practical-git-and-git-workflows).
 
 
+## 2. Python
 
-2. Lesson 2; Base R
+
+1. Download Anaconda from https://.com/
+2. [Install ]() on your computer.
+3. [Set up ]()
+
+
+
+
+
+
+---
+
+
+3. Lesson 2; Base R
     - "Let's get going with Base R?
     1. Load data
     2. Check data
