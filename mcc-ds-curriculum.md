@@ -31,12 +31,14 @@ git config --global user.email johndoe@example.com
 
 **NOTE**: The 5th point is my own and based on my bias. To me, it is better to save old work than to trash it and realize it was important down the road.
 
-6. The Git website has a decent [Cheat-sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) to download.
+6. Git Cheat Sheets
 
-6. The 8 most common commands I use are:
+- The Git website has a decent [Cheat-sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
+- GitLab has a good [Cheat-sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) too!
 
-- Learn them via practice.
-- 
+7. The 8 most common commands I use are:
+    - Learn them via practice.
+    - 
 
 
 ```bash
