@@ -2,12 +2,17 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-## Adding something to this list
+## Adding Something
 
 If you want to add a book, article, or resource make sure it is:
 
 1. Try and make sure it is Free!
-2. either something you've read and enjoyed, recommended, and
+2. It must be something you have read and enjoyed. This is not repor for every and all hints and ideas.
+3. I would like to focus on tutorials that are easy to follow and explicit.
+
+I find many people's writing is not concise. Therefore I would like to make this a *"no bs"* site.
+
+This means *KISS*. For me, KISS <- **Keep It Simple and Short**.
 
 This is something that I would have benefited from and a resource that is current for any level of student.
 
