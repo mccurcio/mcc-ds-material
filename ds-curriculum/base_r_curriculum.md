@@ -3,22 +3,23 @@
 *"the no-bs approach"*
 
 NOTE: For Matt, **Provide Outline of Course or of Session(?)**
-Projects
-Download Course Project
-Files in R
-Packages
-Import Data
-Objects and Functions
-Examine our Data
-Import Our Data Again
-Getting Help
-Wrapping Up
+Projects,
+Download Course Project,
+Files in R,
+Packages,
+Import Data,
+Objects and Functions,
+Examine our Data,
+Import Our Data Again,
+Getting Help,
+Wrapping Up  
 
 **NOTE**: This tutorial assumes you know how to download and install software on you operating system.
 
 ## What is R?
 
 1. The [R-Project](https://cran.r-project.org/index.html) is a freely available, open-source language and environment for statistical computing.  
+   * https://cran.r-project.org/
    * R-Archive contains over **18,000** packages: *scientific, graphical, linear and nonlinear modelling, statistical tests, time series analysis, classification, and clustering* libraries.
    * For history see: [Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language)).
 
@@ -36,6 +37,8 @@ Wrapping Up
    * https://community.rstudio.com/
    * https://www.r-bloggers.com
    * [Youtube](https://www.youtube.com/c/RStudioPBC/featured)
+   * [RPubs](https://rpubs.com/)
+   * [Bookdown Books](https://bookdown.org/)
 
 
 ## Getting Started
