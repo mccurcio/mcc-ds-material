@@ -26,8 +26,8 @@
 
 - :star: [Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) :free:
 
-- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free: Free Resource
-   - Syncfusion has the **Succinctly Series** of ebooks. Lots of topics and languages!
+- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) The Succinctly Series :free: Free Resource
+   - The **Succinctly Series** has great topics and different languages!
 
 ### Programming Information :floppy_disk:
 
