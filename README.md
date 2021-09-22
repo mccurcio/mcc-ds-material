@@ -8,7 +8,7 @@
   <em>"the no-bs approach"</em>
 </p>
 
-**Note:** This list is compiled by [Matthew Curcio](https://github.com/mccurcio). It includes material on data science, machine learning books, websites, videos, etc. that I have found useful *and* would recommend. Whenever possible I have chosen material that is *FREE*. 
+**Note:** This list is compiled by [Matthew Curcio](https://github.com/mccurcio). This list includes material on data science, machine learning books, websites, videos, etc. that I have **used and would recommend**. Whenever possible, I have chosen **free** material. 
 
 <p align="center">
   This list is *NOT complete nor comprehensive* but rather a resource for myself and others.
