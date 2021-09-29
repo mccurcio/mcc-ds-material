@@ -61,7 +61,7 @@
 
 ### Python :snake:
   
-- Right now, I am working on the [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/). 
+- Right now, I am working on the [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/). :free:
 
 - However there are so many alternatives
 
