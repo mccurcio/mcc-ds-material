@@ -53,11 +53,19 @@
   
 - [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion :free:
 
-- [Advanced R](https://adv-r.hadley.nz/index.html) :free:
+- [Advanced R](https://adv-r.hadley.nz/index.html) :Book Online:
 
-- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/) :free:
+- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/) :Book Online:
 
-- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/) :free:
+- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/) :Book Online:
+
+
+
+- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+
+- [A ModernDive into R and the Tidyverse](https://moderndive.com/)
+
+- [Text Mining with R](https://www.tidytextmining.com/)
 
 ### Python :snake:
   
@@ -77,13 +85,17 @@
 
 ### Bash :goat:
 
-- :free: [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/) :free:
+- [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/) :Book Online:
   
 ### SQL - Under Construction
+
+- [PostgreSQL Notes for Professionals](https://goalkicker.com/) :Free: Goalkicker has many books. Although I call them reference type materiale.
   
 ### Markdown :arrow_down_small:
 
 - [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :m: :free:
+
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) Needed if you are going to use .RMD notebooks and docs.  :Book Online:
 
 - For a full list of available Github markdown emoji and codes, check out [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
    
