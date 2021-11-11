@@ -29,7 +29,7 @@
 
 - :star: [Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) :free:
 
-- [Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/) *Book Online* 📗
+- [Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/), *Book Online* 📗
 
 #### Linear Algebra
 
@@ -67,21 +67,21 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
   
 - [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion :free:
 
-- [Advanced R](https://adv-r.hadley.nz/index.html) *Book Online* 📗
+- [Advanced R](https://adv-r.hadley.nz/index.html), *Book Online* 📗
 
-- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/) *Book Online* 📗
+- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/), *Book Online* 📗
 
-- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/) *Book Online* 📗
+- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/), *Book Online* 📗
 
-- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/) *Book Online* 📗
+- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/), *Book Online* 📗
 
-- [A ModernDive into R and the Tidyverse](https://moderndive.com/) *Book Online* 📗
+- [A ModernDive into R and the Tidyverse](https://moderndive.com/), *Book Online* 📗
 
-- [Text Mining with R](https://www.tidytextmining.com/) :Book Online: 📗
+- [Text Mining with R](https://www.tidytextmining.com/), :Book Online: 📗
 
 ### Python :snake:
   
-- I enjoy Dr. Chuck's youtube lectures [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/). *Book Online* 📗
+- :star: I enjoy Dr. Chuck's youtube lectures [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/). *Book Online* 📗
 
 - However there are so many alternatives
 
@@ -97,7 +97,7 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 ### Bash :goat:
 
-- [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/) *Book Online* 📗
+- :star: [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/), *Book Online* 📗
   
 ### SQL - Under Construction
 
@@ -105,15 +105,15 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
   
 ### Markdown :arrow_down_small:
 
-- [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :m: :free:
+- :star: [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :m: :free:
 
-- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) Needed if you are going to use .RMD notebooks and docs. *Book Online* 📗
+- :star: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) Needed if you are going to use .RMD notebooks and docs. *Book Online* 📗
 
 - For a full list of available Github markdown emoji and codes, check out [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
    
 ### Linux :penguin:
 
-- [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux) :free:
+- :star: [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux) :free:
 
 ### Machine Learning :tractor:
 
