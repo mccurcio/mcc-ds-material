@@ -64,6 +64,8 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 - [Mastering Shiny](https://mastering-shiny.org/) - is an online book on using R to produce an interactive graphic or dashboard.
 
 ### R-cran
+
+- :star: [The caret Package by Max Kuhn](https://topepo.github.io/caret/index.html)
   
 - [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion :free:
 
@@ -116,6 +118,8 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 - :star: [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux) :free:
 
 ### Machine Learning :tractor:
+
+- :star: [Applied Predictive Modeling by Max Kuhn, K Johnson](http://appliedpredictivemodeling.com/)
 
 - [Hands-On Machine Learning with R by Bradley Boehmke, et al](https://bradleyboehmke.github.io/HOML/) :free:
 
