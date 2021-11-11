@@ -8,16 +8,18 @@
   <em>"the no-bs approach"</em>
 </p>
 
-**Note:** This list is compiled by [Matthew Curcio](https://github.com/mccurcio). This list includes material on data science, machine learning books, websites, videos, etc. that I have **used and would recommend**. Whenever possible, I have chosen **free** material. 
-
-<p align="center">
-  This list is *NOT complete nor comprehensive* but rather a resource for myself and others.
-</p>
+**Note:** This list is compiled by [Matthew Curcio](https://github.com/mccurcio). This list includes material on data science, machine learning books, websites, videos, etc. that I have **used and would recommend**. Whenever possible, I note **free** material. 
 
 --------------------------------------------------------------------------
 
 # First Steps
-  
+
+## Just Starting, that's ok, too.
+
+- [Free Code Camp](https://www.freecodecamp.org/news/about/) :free:
+
+- [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) A GREAT Starter book for easing one into R & Data Science. :Book Online:
+
 ## Books :books:
 
 ### Mathematics
@@ -26,8 +28,16 @@
 
 - :star: [Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) :free:
 
-- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks), The Succinctly Series :free: Free Resource
-   - The **Succinctly Series** has great topics and different languages!
+- [Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/) :Book Online:
+
+#### Linear Algebra
+
+- [Linear Algebra
+As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/linear_algebra/mat67_course_notes.pdf) :free:
+
+- [A First Course in Linear Algebra, Robert A. Beezer](http://linear.ups.edu/download/fcla-3.40-tablet.pdf) :free:
+
+- [Linear Algebra, Jim Hefferon](https://open.umn.edu/opentextbooks/textbooks/24) :free:
 
 ### Programming Information :floppy_disk:
 
@@ -42,6 +52,9 @@
 - [GoalKicker.com](https://goalkicker.com/) :free: - Programming Books
     - **BASH, Python, MySQL, GIT, Linux**, ... 
     - **Love these**; they are more like terse notes for a quick reference.
+
+- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks), The Succinctly Series :free: Free Resource
+   - The **Succinctly Series** has great topics and different languages!
 
 ### Data Visualization
 
@@ -59,8 +72,6 @@
 
 - [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/) :Book Online:
 
-
-
 - [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 
 - [A ModernDive into R and the Tidyverse](https://moderndive.com/)
@@ -69,7 +80,7 @@
 
 ### Python :snake:
   
-- Right now, I am working on the [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/). :free:
+- I enjoy Dr. Chuck's youtube lectures [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/). :free:
 
 - However there are so many alternatives
 
