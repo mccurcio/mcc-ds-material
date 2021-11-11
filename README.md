@@ -125,11 +125,11 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 - [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/) :free:
 
-- A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners. :free:
+- :star: A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners. :free:
 
-- Machine Learning, Tom M. Mitchell, ISBN: 0070428077
+- :star: Machine Learning, Tom M. Mitchell, ISBN: 0070428077
 
-- [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
+- :star: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
 
 - [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free:
     - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey :free:
@@ -139,8 +139,6 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  :free:
 
 - Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig, ISBN-13: 978-0-13-604259-4
-    
-- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/), Bradley Boehmke & Brandon Greenwell, 2020
 
 ### Supervised :label:
 
