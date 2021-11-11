@@ -25,6 +25,12 @@
 
 ### Mathematics
 
+#### General Statistics
+
+- :star: Using R for Data Management, Statistical Analysis, and Graphics by N. Horton, et al
+
+#### Advanced Applied Math
+
 - :star: [Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017 :free:
 
 - :star: [Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) :free:
