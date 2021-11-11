@@ -77,7 +77,7 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 - [A ModernDive into R and the Tidyverse](https://moderndive.com/), *Book Online* 📗
 
-- [Text Mining with R](https://www.tidytextmining.com/), :Book Online: 📗
+- [Text Mining with R](https://www.tidytextmining.com/), *Book Online* 📗
 
 ### Python :snake:
   
