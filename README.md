@@ -191,7 +191,7 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 - :star: [Calibre](https://calibre-ebook.com/) This program is Excellent for organizing PDF's, Epubs and mobi book and article formats. My **favorite book and pdf cataloging software** :free:
 
-- [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/) :free:
+- :warning: [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/) Outdated list of books but worth a few minutes. :free:
 
 - :star: [LeanPub](https://leanpub.com/) is a great resource for computer related books. Many books are pay what you want. They have books by Roger Peng and Jeff Leek who have written books on D.S.
 
