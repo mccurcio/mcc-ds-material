@@ -105,7 +105,7 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 ### Bash :goat:
 
-- :star: [Data Science at the Command Line by Jeroen Janssens](https://bookdown.org/), *Book Online* 📗
+- :star: [Data Science at the Command Line by Jeroen Janssens](https://datascienceatthecommandline.com/2e/), *Book Online* 📗
   
 ### SQL - Under Construction
 
