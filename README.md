@@ -15,7 +15,7 @@
 
 # First Steps
 
-## Just Starting, that's ok, too.
+## Just starting, that's ok.
 
 - :star: [Free Code Camp](https://www.freecodecamp.org/news/about/) :free:
 
