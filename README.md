@@ -15,11 +15,12 @@
 
 # First Steps
 
-## Just starting, that's ok.
+## Great Intro Materials.
 
-- :star: [Free Code Camp](https://www.freecodecamp.org/news/about/) :free:
+- :star: [Free Code Camp](https://www.freecodecamp.org/news/about/) FREE
 
-- :star: [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) A GREAT Starter book for easing one into R & Data Science. *Book Online* 📗
+- :star: [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - A GREAT Starter book for easing one into R & Data Science. *FREE Book Online* 📗
+- :star: [Exploratory Data Analysis with R](http://leanpub.com/exdata) - Roger Peng has some great material too!
 
 ## Books :books:
 
@@ -31,36 +32,36 @@
 
 #### Advanced Applied Math
 
-- :star: [Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017 :free:
+- :star: [Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017 FREE
 
-- :star: [Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) :free:
+- :star: [Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) FREE
 
-- [Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/), *Book Online* 📗
+- [Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/), *FREE Book Online* 📗
 
 #### Linear Algebra
 
 - [Linear Algebra
-As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/linear_algebra/mat67_course_notes.pdf) :free:
+As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/linear_algebra/mat67_course_notes.pdf) FREE
 
-- [A First Course in Linear Algebra, Robert A. Beezer](http://linear.ups.edu/download/fcla-3.40-tablet.pdf) :free:
+- [A First Course in Linear Algebra, Robert A. Beezer](http://linear.ups.edu/download/fcla-3.40-tablet.pdf) FREE
 
-- [Linear Algebra, Jim Hefferon](https://open.umn.edu/opentextbooks/textbooks/24) :free:
+- [Linear Algebra, Jim Hefferon](https://open.umn.edu/opentextbooks/textbooks/24) FREE
 
 ### Programming Information :floppy_disk:
 
-- [Free Code Camp](https://www.freecodecamp.org/news/about/) :free:
+- [Free Code Camp](https://www.freecodecamp.org/news/about/) FREE
 
--  **Learn Git!** [GitHub.com](https://github.com/) :free:
+-  **Learn Git!** [GitHub.com](https://github.com/) FREE
     - **Use Git for Everything & put All work on it!** 
     - Git and what you put on your GitHub account **IS** your new business card.
     - [Github has a tutorial](https://guides.github.com/activities/hello-world/)
-    - You may also try [Gitlab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) (ALL free).
+    - You may also try [Gitlab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) (ALL FREE).
     
-- [GoalKicker.com](https://goalkicker.com/) :free: - Programming Books
+- [GoalKicker.com](https://goalkicker.com/) FREE - Programming Books
     - **BASH, Python, MySQL, GIT, Linux**, ... 
     - **Love these**; they are more like terse notes for a quick reference.
 
-- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks), The Succinctly Series :free: Free Resource
+- [Syncfusion Ebooks](https://www.syncfusion.com/ebooks), The Succinctly Series, FREE Resource
    - The **Succinctly Series** has great topics and different languages!
 
 ### Data Visualization
@@ -71,25 +72,25 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 ### R-cran
 
-- :star: [The caret Package by Max Kuhn](https://topepo.github.io/caret/index.html)
+- :star: [The caret Package by Max Kuhn](https://topepo.github.io/caret/index.html), *FREE Book Online* 📗
   
-- [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion :free:
+- [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion FREE
 
-- [Advanced R](https://adv-r.hadley.nz/index.html), *Book Online* 📗
+- [Advanced R](https://adv-r.hadley.nz/index.html), *FREE Book Online* 📗
 
-- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/), *Book Online* 📗
+- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/), *FREE Book Online* 📗
 
-- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/), *Book Online* 📗
+- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/), *FREE Book Online* 📗
 
-- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/), *Book Online* 📗
+- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/), *FREE Book Online* 📗
 
-- [A ModernDive into R and the Tidyverse](https://moderndive.com/), *Book Online* 📗
+- [A ModernDive into R and the Tidyverse](https://moderndive.com/), *FREE Book Online* 📗
 
-- [Text Mining with R](https://www.tidytextmining.com/), *Book Online* 📗
+- [Text Mining with R](https://www.tidytextmining.com/), *FREE Book Online* 📗
 
 ### Python :snake:
   
-- :star: I enjoy Dr. Chuck's youtube lectures [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/). *Book Online* 📗
+- :star: I enjoy Dr. Chuck's youtube lectures [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/), *FREE Book Online* 📗
 
 - However there are so many alternatives
 
@@ -105,7 +106,7 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 ### Bash :goat:
 
-- :star: [Data Science at the Command Line by Jeroen Janssens](https://datascienceatthecommandline.com/2e/), *Book Online* 📗
+- :star: [Data Science at the Command Line by Jeroen Janssens](https://datascienceatthecommandline.com/2e/), *FREE Book Online* 📗
   
 ### SQL - Under Construction
 
@@ -113,36 +114,36 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
   
 ### Markdown :arrow_down_small:
 
-- :star: [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/) :m: :free:
+- :star: [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/), *FREE Book Online* 📗
 
-- :star: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) Needed if you are going to use .RMD notebooks and docs. *Book Online* 📗
-
+- :star: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) Needed if you are going to use .RMD notebooks and docs. *FREE Book Online* 📗
+- 
 - For a full list of available Github markdown emoji and codes, check out [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
    
 ### Linux :penguin:
 
-- :star: [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux) :free:
+- :star: [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux) FREE
 
 ### Machine Learning :tractor:
 
 - :star: [Applied Predictive Modeling by Max Kuhn, K Johnson](http://appliedpredictivemodeling.com/)
 
-- [Hands-On Machine Learning with R by Bradley Boehmke, et al](https://bradleyboehmke.github.io/HOML/) :free:
+- [Hands-On Machine Learning with R by Bradley Boehmke, et al](https://bradleyboehmke.github.io/HOML/) FREE
 
-- [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/) :free:
+- [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/) FREE
 
-- :star: A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners. :free:
+- :star: A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners. FREE
 
 - :star: Machine Learning, Tom M. Mitchell, ISBN: 0070428077
 
-- :star: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata) :free:
+- :star: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata), *FREE Book Online* 📗
 
 - [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free:
     - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey :free:
    
 - [SVM Tutorial](https://www.svm-tutorial.com/)
     
-- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  :free:
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  FREE
 
 - Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig, ISBN-13: 978-0-13-604259-4
 
