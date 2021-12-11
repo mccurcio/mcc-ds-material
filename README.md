@@ -8,7 +8,7 @@
   <em>"the no-bs approach"</em>
 </p>
 
-**Note:** This list is compiled by [Matthew Curcio](https://github.com/mccurcio). This list includes material on data science, machine learning books, websites, videos, etc. that I have **used and would recommend**. Whenever possible, I note **free** material. 
+**Note:** This list is compiled by [Matthew Curcio](https://mccurcio.github.io/). This list includes material on data science, machine learning books, websites, videos, etc. that I have **used and would recommend**. Whenever possible, I note **FREE** material. 
 
 :star: - indicate personal favorites
 --------------------------------------------------------------------------
@@ -72,21 +72,21 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 ### R-cran
 
-- :star: [The caret Package by Max Kuhn](https://topepo.github.io/caret/index.html), *FREE Book Online* 📗
+- :star: [The caret Package by Max Kuhn](https://topepo.github.io/caret/index.html),  **FREE** Book Online* 📗
   
 - [R Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/rsuccinctly/getting-started-with-r) by Syncfusion FREE
 
-- [Advanced R](https://adv-r.hadley.nz/index.html), *FREE Book Online* 📗
+- [Advanced R](https://adv-r.hadley.nz/index.html),  **FREE** Book Online 📗
 
-- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/), *FREE Book Online* 📗
+- [blogdown: Creating Websites with R Markdown by Yihui Xie, et al](https://bookdown.org/),  **FREE** Book Online 📗
 
-- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/), *FREE Book Online* 📗
+- [bookdown: Authoring Books and Technical Documents with R Markdown by Yihui Xie, et al](https://bookdown.org/),  **FREE** Book Online 📗
 
-- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/), *FREE Book Online* 📗
+- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/),  **FREE** Book Online 📗
 
-- [A ModernDive into R and the Tidyverse](https://moderndive.com/), *FREE Book Online* 📗
+- [A ModernDive into R and the Tidyverse](https://moderndive.com/),  **FREE** Book Online 📗
 
-- [Text Mining with R](https://www.tidytextmining.com/), *FREE Book Online* 📗
+- [Text Mining with R](https://www.tidytextmining.com/),  **FREE** Book Online* 📗
 
 ### Python :snake:
   
@@ -108,7 +108,7 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 ### Bash :goat:
 
-- :star: [Data Science at the Command Line by Jeroen Janssens](https://datascienceatthecommandline.com/2e/), *FREE Book Online* 📗
+- :star: [Data Science at the Command Line by Jeroen Janssens](https://datascienceatthecommandline.com/2e/),   **FREE** Book Online 📗
   
 ### SQL - Under Construction
 
@@ -116,42 +116,52 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
   
 ### Markdown :arrow_down_small:
 
-- :star: [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/), *FREE Book Online* 📗
+- :star: [R Markdown: The Definitive Guide by Yihui Xie, et al](https://bookdown.org/),   **FREE** Book Online 📗
 
-- :star: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) Needed if you are going to use .RMD notebooks and docs. *FREE Book Online* 📗
+- :star: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) Needed if you are going to use .RMD notebooks and docs.   **FREE** Book Online 📗
 - 
 - For a full list of available Github markdown emoji and codes, check out [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
    
 ### Linux :penguin:
 
-- :star: [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux) FREE
+- :star: [Just Enough Linux, Malcolm Maclean](https://leanpub.com/jelinux)   **FREE**
 
 ### Machine Learning :tractor:
 
 - :star: [Applied Predictive Modeling by Max Kuhn, K Johnson](http://appliedpredictivemodeling.com/)
 
-- [Hands-On Machine Learning with R by Bradley Boehmke, et al](https://bradleyboehmke.github.io/HOML/) FREE
+- [Hands-On Machine Learning with R by Bradley Boehmke, et al](https://bradleyboehmke.github.io/HOML/)   **FREE**
 
-- [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/) FREE
+- [Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael Irizarry](https://rafalab.github.io/dsbook/)   **FREE**
 
-- :star: A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners. FREE
+- :star: A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners.   **FREE**
 
 - :star: Machine Learning, Tom M. Mitchell, ISBN: 0070428077 Very Good
 
 - [SciKit Learn Tutorial](http://gael-varoquaux.info/scikit-learn-tutorial/)
 
-- [Building Machine Learning Systems with Python](http://totoharyanto.staff.ipb.ac.id/files/2012/10/Building-Machine-Learning-Systems-with-Python-Richert-Coelho.pdf) By Richert Coelho & Willi Richert
+- [Building Machine Learning Systems with Python](http://totoharyanto.staff.ipb.ac.id/files/2012/10/Building-Machine-Learning-Systems-with-Python-Richert-Coelho.pdf) By Richert Coelho & Willi Richert   **FREE**
 
-- :star: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata), *FREE Book Online* 📗
+- :star: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata),   **FREE** Book Online 📗
 
 - [Syncfusion Ebooks](https://www.syncfusion.com/ebooks) GREAT resource! :free:
-    - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey :free:
+    - [Keras](https://www.syncfusion.com/ebooks/keras-succinctly) by James McCaffrey   **FREE**
    
 - [SVM Tutorial](https://www.svm-tutorial.com/)
     
-- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  FREE
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Christopher Bishop, 2006, ISBN-13: 978-0387-31073-2  **FREE**
 
 - Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig, ISBN-13: 978-0-13-604259-4
+
+- [Foundations of Machine Learning - Ed.2018](https://cs.nyu.edu/~mohri/mlbook/) By Mehryar Mohri, et al   **FREE**
+ 
+- [Pattern Recognition & Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) By Christopher Bishop : **Heavy on the math**   **FREE**
+
+- [Natural Language Processing with Python](https://www.nltk.org/book/) Analyzing Text with the Natural Language Toolkit. By Steven Bird, Ewan Klein, and Edward Loper, **Very Hands-on guide book**   **FREE**
+
+### Information Theory
+
+- [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.pdf) - By David MacKay *I'm interested in reading the section on Hash codes, p.193*   **FREE**
 
 ### Supervised :label:
 
