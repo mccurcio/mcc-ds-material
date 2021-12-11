@@ -10,10 +10,13 @@
 
 **Note:** This list is compiled by [Matthew Curcio](https://mccurcio.github.io/). This list includes material on data science, machine learning books, websites, videos, etc. that I have **used and would recommend**. Whenever possible, I note **FREE** material. 
 
-:star: - indicate personal favorites
+:star: - indicates personal favorites
+
 --------------------------------------------------------------------------
 
 # First Steps
+
+- Coming Soon - Article on How/Where to start.
 
 ## Great Intro Materials.
 
