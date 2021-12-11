@@ -92,6 +92,8 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
   
 - :star: I enjoy Dr. Chuck's youtube lectures [Coursera Python for Everybody](https://www.coursera.org/specializations/python) 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/), *FREE Book Online* 📗
 
+- :star: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) By Jake VanderPlas
+
 - However there are so many alternatives
 
 - [Learn X in Y minutes, X = Python](https://learnxinyminutes.com/docs/python/)
@@ -134,7 +136,11 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 - :star: A [Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) by [Hal Daumé III](https://users.umiacs.umd.edu/~hal/) This is a **great illustrative book** for beginners. FREE
 
-- :star: Machine Learning, Tom M. Mitchell, ISBN: 0070428077
+- :star: Machine Learning, Tom M. Mitchell, ISBN: 0070428077 Very Good
+
+- [SciKit Learn Tutorial](http://gael-varoquaux.info/scikit-learn-tutorial/)
+
+- [Building Machine Learning Systems with Python](http://totoharyanto.staff.ipb.ac.id/files/2012/10/Building-Machine-Learning-Systems-with-Python-Richert-Coelho.pdf) By Richert Coelho & Willi Richert
 
 - :star: [Exploratory Data Analysis with R by Roger Peng](https://leanpub.com/exdata), *FREE Book Online* 📗
 
