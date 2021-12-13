@@ -8,7 +8,7 @@
   <em>"the no-bs approach"</em>
 </p>
 
-**Note:** This list is compiled by [Matthew Curcio](https://mccurcio.github.io/). This list includes material on data science, machine learning books, websites, videos, etc. that I have **used and would recommend**. Whenever possible, I note **FREE** material. 
+**Note:** This list is compiled by [Matthew Curcio](https://mccurcio.github.io/). This list includes material that I have **used and would recommend**. Whenever possible, I note **FREE** material. 
 
 :star: - indicates personal favorites
 
@@ -22,7 +22,14 @@
 
 - :star: [Free Code Camp](https://www.freecodecamp.org/news/about/) FREE
 
+-  **Learn Git!** [GitHub.com](https://github.com/) FREE
+    - **Use Git for Everything & put All work on it!** 
+    - Git and what you put on your GitHub account **IS** your new business card.
+    - [Github has a tutorial](https://guides.github.com/activities/hello-world/)
+    - You may also try [Gitlab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) (ALL FREE).
+    
 - :star: [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - A GREAT Starter book for easing one into R & Data Science. *FREE Book Online* 📗
+
 - :star: [Exploratory Data Analysis with R](http://leanpub.com/exdata) - Roger Peng has some great material too!
 
 ## Books :books:
@@ -54,12 +61,6 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 - [Free Code Camp](https://www.freecodecamp.org/news/about/) FREE
 
--  **Learn Git!** [GitHub.com](https://github.com/) FREE
-    - **Use Git for Everything & put All work on it!** 
-    - Git and what you put on your GitHub account **IS** your new business card.
-    - [Github has a tutorial](https://guides.github.com/activities/hello-world/)
-    - You may also try [Gitlab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) (ALL FREE).
-    
 - [GoalKicker.com](https://goalkicker.com/) FREE - Programming Books
     - **BASH, Python, MySQL, GIT, Linux**, ... 
     - **Love these**; they are more like terse notes for a quick reference.
