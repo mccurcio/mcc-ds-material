@@ -22,11 +22,12 @@
 
 - :star: [Free Code Camp](https://www.freecodecamp.org/news/about/) FREE
 
--  **Learn Git!** [GitHub.com](https://github.com/) FREE
-    - **Use Git for Everything & put All work on it!** 
+-  **Learn Git!**
+    - *I like to use GitHub as my software storage bank.* 
     - Git and what you put on your GitHub account **IS** your new business card.
+    - [GitHub.com](https://github.com/) is by far the most common storage version control system. FREE
     - [Github has a tutorial](https://guides.github.com/activities/hello-world/)
-    - You may also try [Gitlab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) (ALL FREE).
+    - You may also try [Gitlab](https://about.gitlab.com/) and [Bitbucket](https://bitbucket.org/) (Both have FREE options).
     
 - :star: [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - A GREAT Starter book for easing one into R & Data Science. *FREE Book Online* 📗
 
