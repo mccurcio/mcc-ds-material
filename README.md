@@ -8,7 +8,7 @@
   <em>"the no-bs approach"</em>
 </p>
 
-**Note:** This list is compiled by [Matthew Curcio](https://mccurcio.github.io/). This list includes material that I have **used and would recommend**. Whenever possible, I note **FREE** material. 
+**Greetings** This list is compiled by [Matthew Curcio](https://mccurcio.github.io/). This list includes material that I have **used and would recommend**. Whenever possible, I note **FREE** material. 
 
 :star: - indicates personal favorites
 
