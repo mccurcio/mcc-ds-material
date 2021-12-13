@@ -7,7 +7,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 If you want to add a book, article, or resource make sure it is:
 
 1. Try and make sure it is Free!
-2. It must be something you have read and enjoyed. This is not repor for every and all hints and ideas.
+2. It must be something you have read and enjoyed. This is not repository for every and all hints and ideas.
 3. I would like to focus on tutorials that are easy to follow and explicit.
 
 I find many people's writing is not concise. Therefore I would like to make this a *"no bs"* site.
