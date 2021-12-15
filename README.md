@@ -207,7 +207,7 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 
 - :star: [Artifical Intelligences, MIT 6.034, w/ Patrick Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)  One of my Favorites.
 
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured) is produced by Grant Sanderson and has GREAT animations.
+- :star: [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured) is produced by Grant Sanderson and has GREAT animations.
 
 - :star: [Dr. Bharatendra Rai](https://www.youtube.com/channel/UCuWECsa_za4gm7B3TLgeV_A) from Umass, Dartmouth. His videos are very professsional and filled with highly relevant code. Dr Rai's videos are very clear and methodical.
 
@@ -229,5 +229,7 @@ As an Introduction to Abstract Mathematics](https://www.math.ucdavis.edu/~anne/l
 ---
   
 ## Online Courses:
-  
-- In Construction
+
+
+- :star: [Python for Everybody, 'Py4E'](https://www.freecodecamp.org/) I enjoy Dr. Chuck's youtube lectures. This is a 5 course series provided by [Dr Charles Severance](http://www.dr-chuck.com/), FREE Course follows his FREE Book Online 📗
+
