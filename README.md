@@ -41,6 +41,8 @@
 
 - :star: Using R for Data Management, Statistical Analysis, and Graphics by N. Horton, et al
 
+- [Introduction to Statistical Thought](https://people.math.umass.edu/~lavine/Book/book.pdf) By Michael Lavine
+
 #### Advanced Applied Math
 
 - :star: [Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman, 2017 FREE
