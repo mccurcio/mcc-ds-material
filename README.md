@@ -39,7 +39,7 @@
 
 #### General Statistics
 
-- :star: Using R for Data Management, Statistical Analysis, and Graphics by N. Horton, et al
+- :star: [Using R for Data Management, Statistical Analysis, and Graphics](https://www.amazon.com/Using-Management-Statistical-Analysis-Graphics/dp/1439827559) by N. Horton, et al
 
 - [Introduction to Statistical Thought](https://people.math.umass.edu/~lavine/Book/book.pdf) By Michael Lavine FREE
 
